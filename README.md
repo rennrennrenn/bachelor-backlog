@@ -4,6 +4,6 @@
 
 <h1 align="center">Bachelor Project Backlog</h1>
 
-#Description
-Here you will find the Kanban of my bachelor project.
+# Description
+Here you will find the Kanban of my bachelor project. /n
 Just click on Projekts and you will find the Bachlog.
