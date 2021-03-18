@@ -5,7 +5,8 @@
 <h1 align="center">Bachelor Project Backlog</h1>
 
 ## Description
-Here you will find the Kanban of my bachelor project. /n
+Here you will find the Kanban of my bachelor project.
+
 Just click on Projekts and you will find the Bachlog.
 
-<a href="https://github.com/rennrennrenn/bachelor-backlog/issues" title="Open Issues"><img src="https://github.com/rennrennrenn/bachelor-backlog/issues"></a>
+<a href="https://github.com/rennrennrenn/bachelor-backlog/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/rennrennrenn/bachelor-backlog"></a>
