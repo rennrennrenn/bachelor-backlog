@@ -8,4 +8,4 @@
 Here you will find the Kanban of my bachelor project. /n
 Just click on Projekts and you will find the Bachlog.
 
-<a href="https://github.com/railslove/recover-backlog/issues" title="Open Issues"><img src="https://github.com/rennrennrenn/bachelor-backlog/issues"></a>
+<a href="https://github.com/rennrennrenn/bachelor-backlog/issues" title="Open Issues"><img src="https://github.com/rennrennrenn/bachelor-backlog/issues"></a>
