@@ -7,6 +7,6 @@
 ## Description
 Here you will find the Kanban of my bachelor project.
 
-Just click on "Projects" and you will find the Bachlog.
+Just click on "Projects" and you will find the Backlog.
 
 <a href="https://github.com/rennrennrenn/bachelor-backlog/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/rennrennrenn/bachelor-backlog"></a>
